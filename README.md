@@ -12,6 +12,21 @@
 
 ---
 
+### 🌧️ Contextualização: O Problema das Enchentes no Brasil
+
+> _"As enchentes no Brasil não são eventos inesperados — são tragédias anunciadas."_  
+
+![Gif de enchente ilustrativo](link_para_o_gif_aqui)
+
+As enchentes representam um dos desastres naturais mais recorrentes e devastadores no Brasil. Entre 1991 e 2022, o país registrou **mais de 21 mil inundações**, afetando cerca de **110 milhões de pessoas**. Apenas em 2023, **mais de 3,3 milhões** de brasileiros foram impactados por eventos hidrológicos extremos, resultando em **pelo menos 142 mortes**. Em 2024, o estado do **Rio Grande do Sul** viveu uma das piores tragédias da história recente, com cidades inteiras como Canoas e Roca Sales permanecendo submersas por semanas.
+
+As causas das enchentes são múltiplas, mas a principal não é natural: trata-se da **falta de planejamento urbano, drenagem insuficiente e ausência de políticas públicas eficazes de prevenção**. Segundo o IBGE, **mais de 8 milhões de brasileiros vivem em áreas de risco**, sendo que **mais da metade dessas regiões não possuem sistemas básicos de escoamento de águas pluviais**.
+
+Além do impacto humano, os prejuízos econômicos são expressivos. Estima-se que as enchentes causam **mais de R$ 8 bilhões em perdas anuais** no Brasil, valor que salta em eventos extremos — como os mais de **R$ 20 bilhões de prejuízos projetados só no RS em 2024**, segundo a CNI.
+
+Nesse cenário, **tecnologias de monitoramento e alerta precoce** como o _HydroSafe_ se tornam essenciais para **antecipar riscos, salvar vidas e mitigar danos**. Sensores conectados, IoT e soluções locais baseadas em Arduino são alternativas acessíveis e eficazes para combater um problema estrutural e recorrente.
+
+
 ## ⚠️ Aviso Importante
 
 - Este software/hardware é um protótipo destinado a auxiliar no monitoramento de níveis de água para prevenção de enchentes e deve ser utilizado para fins educacionais e de desenvolvimento.
