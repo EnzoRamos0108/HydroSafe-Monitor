@@ -5,7 +5,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 <p align="center">
-  <img src="link/para/hydrosafe_logo_sem_fundo.png" alt="HydroSafe Logo" width="200"/>
+  <img src="hydrosafe_youtube_background.jpg" alt="HydroSafe Logo" width="200"/>
 </p>
 
 **HydroSafe** é um sistema de monitoramento em tempo real focado na prevenção de enchentes urbanas através da medição contínua dos níveis de água em bueiros, galerias pluviais e rios. Utilizando sensores acessíveis e tecnologia IoT (potencial), o HydroSafe visa fornecer alertas antecipados para autoridades e comunidades, ajudando a mitigar danos materiais e, principalmente, a salvar vidas.
