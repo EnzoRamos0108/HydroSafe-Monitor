@@ -16,7 +16,9 @@
 
 > _"As enchentes no Brasil não são eventos inesperados — são tragédias anunciadas."_  
 
-![Gif de enchente ilustrativo](link_para_o_gif_aqui)
+<p align="center">
+  <img src="enchente-rs.gif" alt="HydroSafe Logo" width="400"/>
+</p>
 
 As enchentes representam um dos desastres naturais mais recorrentes e devastadores no Brasil. Entre 1991 e 2022, o país registrou **mais de 21 mil inundações**, afetando cerca de **110 milhões de pessoas**. Apenas em 2023, **mais de 3,3 milhões** de brasileiros foram impactados por eventos hidrológicos extremos, resultando em **pelo menos 142 mortes**. Em 2024, o estado do **Rio Grande do Sul** viveu uma das piores tragédias da história recente, com cidades inteiras como Canoas e Roca Sales permanecendo submersas por semanas.
 
@@ -156,9 +158,9 @@ O projeto é composto principalmente por:
 
 **Vídeo de Funcionamento:**
 
-```
-[LINK PARA VÍDEO NO YOUTUBE/VIMEO AQUI]
-```
+
+🔗 *[https://youtu.be/j5H1fPSrbTs]*
+
 
 *Link para o vídeo demonstrando o monitor HydroSafe em ação.*
 
