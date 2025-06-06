@@ -174,7 +174,7 @@ Este projeto é de uso **educacional e acadêmico**. Sinta-se livre para estudar
 
 ---
 
-> Desenvolvido com dedicação, criatividade e muitas horas de café por Enzo Ramos, Felipe Cerazi e Gustavo Peaguda. 💻🍷
+> Desenvolvido com dedicação, criatividade e muitas horas de café por Enzo Ramos, Felipe Cerazi e Gustavo Peaguda. 💻🌊
 
 
 
