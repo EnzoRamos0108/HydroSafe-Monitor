@@ -59,7 +59,7 @@ O projeto é composto principalmente por:
 
 1. **Nó Sensor (Hardware):** O dispositivo físico montado com Arduino, sensores e atuadores, responsável pela coleta de dados no local.
 
-1. **Firmware (Software):** O código `river_monitor.ino` que roda no Arduino, controlando os sensores, processando os dados e ativando os alertas.
+1. **Firmware (Software):** O código `hydrosafe_monitor.ino` que roda no Arduino, controlando os sensores, processando os dados e ativando os alertas.
 
 1. **Simulação (Wokwi):** Arquivos `diagram.json` e o código `.ino` para simular o hardware e software em ambiente virtual.
 
@@ -87,7 +87,7 @@ O projeto é composto principalmente por:
 
 - **Bibliotecas:** Instale as bibliotecas `LiquidCrystal_I2C` e `U8g2`através do Gerenciador de Bibliotecas da IDE.
 
-- **Código:** Abra o arquivo `river_monitor.ino` na Arduino IDE.
+- **Código:** Abra o arquivo `hydrosafe_monitor.ino` na Arduino IDE.
 
 - **Configuração:** Ajuste as constantes no início do código (pinos dos componentes, altura do sensor, limiares de alerta) se sua montagem for diferente da original.
 
@@ -101,7 +101,7 @@ O projeto é composto principalmente por:
 
 - Copie o conteúdo do `diagram.json` para a aba `diagram.json` no Wokwi.
 
-- Copie o conteúdo do `river_monitor.ino` para a aba do sketch (`.ino`).
+- Copie o conteúdo do `hydrosafe_monitor.ino` para a aba do sketch (`.ino`).
 
 - Instale as bibliotecas `LiquidCrystal_I2C` e `U8g2.`
 
@@ -121,7 +121,7 @@ O projeto é composto principalmente por:
 
 - Escute o **Buzzer**: Ele soará continuamente se o nível de Perigo for atingido.
 
-1. **Ajuste de Limiares:** Se necessário, modifique os valores `LIMITE_ALERTA` e `LIMITE_PERIGO` no código `river_monitor.ino` e faça o upload novamente para ajustar a sensibilidade dos alertas.
+1. **Ajuste de Limiares:** Se necessário, modifique os valores `LIMITE_ALERTA` e `LIMITE_PERIGO` no código `hydrosafe_monitor.ino` e faça o upload novamente para ajustar a sensibilidade dos alertas.
 
 ---
 
