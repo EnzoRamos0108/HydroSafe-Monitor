@@ -127,17 +127,17 @@ O projeto é composto principalmente por:
 
 ## 🎬 Demonstração
 
-*(Insira aqui screenshots, GIFs ou links de vídeos mostrando o sistema em funcionamento)*
-
 **Simulação no Wokwi:**
 
-```
-[IMAGEM/GIF DA SIMULAÇÃO WOKWI AQUI]
-```
 
-*Descrição breve da simulação.*
+<p align="center">
+  <img src="hydrosafe-print.png" alt="Print da simulação" width="cover"/>
+</p>
 
-**
+
+*Imagem da nossa simulação*
+
+🔗 *[https://wokwi.com/projects/432755988180161537]*
 
 **Vídeo de Funcionamento:**
 
@@ -145,7 +145,7 @@ O projeto é composto principalmente por:
 [LINK PARA VÍDEO NO YOUTUBE/VIMEO AQUI]
 ```
 
-*Link para um vídeo demonstrando o HydroSafe em ação.*
+*Link para o vídeo demonstrando o monitor HydroSafe em ação.*
 
 ---
 
